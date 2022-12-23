@@ -1,0 +1,28 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    font-style: sans serif;
+}
+
+body
+{
+    background-color: lavender;
+}
+.cont1
+{
+    height: auto;
+    width: 150px;
+    background-color: #fff;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+}
+img
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 10px;
+    
+}
